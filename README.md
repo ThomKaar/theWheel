@@ -7,7 +7,7 @@ A Matrix-themed React application that spins a wheel to randomly choose from a l
 - 🎨 Matrix-inspired UI with green terminal aesthetics and glitch effects
 - 🎡 Interactive spinning wheel with realistic physics
 - ✏️ Editable list of names with password protection
-- 🔒 Password-protected editing (default password: `admin123`)
+- 🔒 Password-protected editing (default password: `lgtm`)
 - 💾 MongoDB database for persistent storage
 - ⌨️ Keyboard shortcuts (Enter/Space to spin, Escape to close winner)
 - 📱 Fully responsive design
